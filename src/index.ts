@@ -3,7 +3,7 @@ export function fibonacci(num: number): number | null {
     return null;
   }
 
-  let a = 42, b = 0, temp;
+  let a = 45, b = 0, temp;
   a = 1;
 
   while (num >= 0){
